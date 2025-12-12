@@ -123,6 +123,8 @@ OutputProgram.java
 <img width="1919" height="1029" alt="OutputProgram java" src="https://github.com/user-attachments/assets/a0c4918d-9fa6-4e1f-bc6a-5131ab2f9acb" />
 <img width="1919" height="983" alt="github" src="https://github.com/user-attachments/assets/de711958-56f0-4aa8-9c4a-2f7410979d9c" />
 
+<img width="954" height="845" alt="File Structure in Local" src="https://github.com/user-attachments/assets/b98d476a-e208-493d-a59d-3adb6eafa7d4" />
+
 ```
 
 Example sections:
